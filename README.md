@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra saber mais sobre meu conteúdo sobre programação me segue nas redes abaixo!
+### Pra saber mais sobre minhas Habilidades em programação me segue nas redes abaixo!
  
 <div> 
  <a href="https://discord.com/channels/@me/1341210403497316403" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
